@@ -13,8 +13,8 @@ fn main()
     {
         nome: String::from("Lur"),
         idade: 25,
-        cidade: String::from("Pensilvania"),
-        email: String::from("lurckzs@gmail.com"),
+        cidade: String::from("teste"),
+        email: String::from("lurckzs@gmail.com23"),
     };
     
     println!("Todas as informções que temos em pessoa_1 é {:?}", pessoa_1);
