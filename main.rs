@@ -18,4 +18,5 @@ fn main()
     };
     
     println!("Todas as informções que temos em pessoa_1 é {:?}", pessoa_1);
+    println!("teste 0001 para Marge");
 }
